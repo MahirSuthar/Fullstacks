@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() {
+    char str[] = "Hello";
+    int count = 0;
+
+    while (str[count] != '\0') {
+        count++;
+    }
+
+    printf("Length: %d", count);
+    return 0;
+}
+
