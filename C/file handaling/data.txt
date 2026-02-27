@@ -1,0 +1,1 @@
+Hello, this is handling file with  write mode
